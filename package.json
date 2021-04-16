@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "extractwords": "^1.2.0",
+    "instagram-basic-data-scraper-with-username": "^4.0.1",
+    "keyword-extractor": "^0.0.19"
+  }
+}
